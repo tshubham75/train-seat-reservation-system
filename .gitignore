@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Compiled files
+dist/
+
+# IDE/Editor settings
+.idea/
+.vscode/
+
+# Temporary files
+*.log
